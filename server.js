@@ -36,6 +36,10 @@ client.on("message", async message => {
   const args = message.content.slice(process.env.PREFIX.length).trim().split(/ +/g);
   const command = args.shift().toLowerCase();
   
+  if (command === "hi") {
+   message.channel.send(`Lol hi there ${message.author}`);   
+  }
+    
   if (command === "info") {
     message.channel.send({embed: {
       "title": "FungiBot Info",
