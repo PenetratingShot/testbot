@@ -1,0 +1,22 @@
+{
+  "name": "fungibot",
+  "version": "0.0.0",
+  "description": "fungi",
+  "main": "server.js",
+  "engines": {
+    "node": "8.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": ".json bourne#0194, Gegs921#4981",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dblapi.js": "^1.1.1",
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "unique-random-array": "^1.0.0",
+    "eventemitter3": "^3.0.1",
+    "got": "^8.3.0"
+  }
+}

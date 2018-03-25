@@ -1,0 +1,275 @@
+{
+	"versions": {
+		"0.0.2": {
+			"name": "sqlite",
+			"version": "0.0.2",
+			"dependencies": {
+				"sqlite3": "^3.1.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-preset-node5": "^10.1.2",
+				"babel-register": "^6.3.13",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^2.1.1",
+				"jscs": "^2.7.0",
+				"mocha": "^2.3.4",
+				"rimraf": "^2.5.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "60eb22f7a387180a2679a031a806a080ad4e078a",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-0.0.2.tgz"
+			}
+		},
+		"0.0.3": {
+			"name": "sqlite",
+			"version": "0.0.3",
+			"dependencies": {
+				"sqlite3": "^3.1.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.4.0",
+				"babel-preset-node5": "^10.3.0",
+				"babel-register": "^6.4.3",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^3.1.0",
+				"jscs": "^2.8.0",
+				"mocha": "^2.3.4",
+				"rimraf": "^2.5.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "352fcf1e16cbc6c37c85d00fca6412aa08d0a473",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-0.0.3.tgz"
+			}
+		},
+		"0.0.4": {
+			"name": "sqlite",
+			"version": "0.0.4",
+			"dependencies": {
+				"sqlite3": "^3.1.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.4.0",
+				"babel-preset-node5": "^10.3.0",
+				"babel-register": "^6.4.3",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^3.1.0",
+				"jscs": "^2.8.0",
+				"mocha": "^2.3.4",
+				"rimraf": "^2.5.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "e0900e4c4708128a4d21eaeba2f3d0b9c7f5e757",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-0.0.4.tgz"
+			}
+		},
+		"1.0.0": {
+			"name": "sqlite",
+			"version": "1.0.0",
+			"dependencies": {
+				"sqlite3": "^3.1.4"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "e40afcfbfec9ba0ddaa6aed85ce92bd8b5b01fdd",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-1.0.0.tgz"
+			}
+		},
+		"2.0.2": {
+			"name": "sqlite",
+			"version": "2.0.2",
+			"dependencies": {
+				"sqlite3": "^3.1.4"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "f1200c4e41a6f0ebc0a737ada55e101954dcb0bb",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.0.2.tgz"
+			}
+		},
+		"2.1.0": {
+			"name": "sqlite",
+			"version": "2.1.0",
+			"dependencies": {
+				"sqlite3": "^3.1.4"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "478ae0e04b8e7df52489c9254c39f10c0ac43f1b",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.1.0.tgz"
+			}
+		},
+		"2.2.0": {
+			"name": "sqlite",
+			"version": "2.2.0",
+			"dependencies": {
+				"sqlite3": "^3.1.4"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "b615f7032a1c0d86d819c8c4827d680166e76bfc",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.2.0.tgz"
+			}
+		},
+		"2.2.1": {
+			"name": "sqlite",
+			"version": "2.2.1",
+			"dependencies": {
+				"sqlite3": "^3.1.7"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "3aa0847a66369c26b8f45785c7c05aaae230994a",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.2.1.tgz"
+			}
+		},
+		"2.2.2": {
+			"name": "sqlite",
+			"version": "2.2.2",
+			"dependencies": {
+				"sqlite3": "^3.1.7"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "f8aa7b91ee40d4369403e9f6b8f9b471b8a797fd",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.2.2.tgz"
+			}
+		},
+		"2.2.3": {
+			"name": "sqlite",
+			"version": "2.2.3",
+			"dependencies": {
+				"sqlite3": "^3.1.8"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "c1a3777d5bc80bb9cd6ecb39e9bc500c380772e2",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.2.3.tgz"
+			}
+		},
+		"2.2.4": {
+			"name": "sqlite",
+			"version": "2.2.4",
+			"dependencies": {
+				"sqlite3": "^3.1.8"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "a5959858c2125b99a8fbc9df7a7853645c459f93",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.2.4.tgz"
+			}
+		},
+		"2.3.0": {
+			"name": "sqlite",
+			"version": "2.3.0",
+			"dependencies": {
+				"sqlite3": "^3.1.8"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "943bff8bb211eaac6d00fe2c952228557581efa1",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.3.0.tgz"
+			}
+		},
+		"2.5.0": {
+			"name": "sqlite",
+			"version": "2.5.0",
+			"dependencies": {
+				"sqlite3": "^3.1.8"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "8298c13851c01be315e23af620e225c8279fb44c",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.5.0.tgz"
+			}
+		},
+		"2.6.0": {
+			"name": "sqlite",
+			"version": "2.6.0",
+			"dependencies": {
+				"sqlite3": "^3.1.8"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "8b2ee14c6152a802e79beee5e8fb707b97094072",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.6.0.tgz"
+			}
+		},
+		"2.7.0": {
+			"name": "sqlite",
+			"version": "2.7.0",
+			"dependencies": {
+				"sqlite3": "^3.1.8"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "37ab2f8b4851478d6da4c6f8b3723100b8162009",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.7.0.tgz"
+			}
+		},
+		"2.8.0": {
+			"name": "sqlite",
+			"version": "2.8.0",
+			"dependencies": {
+				"sqlite3": "^3.1.8"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "acb6d1869a5241c57016c88606eca009f0f31b90",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.8.0.tgz"
+			}
+		},
+		"2.9.0": {
+			"name": "sqlite",
+			"version": "2.9.0",
+			"dependencies": {
+				"sqlite3": "3.1.13"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "33f03c646ea0f7a5d506e645a19b9c5352dd9fa4",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.9.0.tgz"
+			}
+		},
+		"2.9.1": {
+			"name": "sqlite",
+			"version": "2.9.1",
+			"dependencies": {
+				"sqlite3": "3.1.13"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"integrity": "sha512-cu+Bkf5Kwc8JHoNr/iu3m+ZDzly5KIDc7omjwNimF7yZCTd+cIEzLpVXkYXJQFPz8GvHHrNvyqHIKE9JOvMzAw==",
+				"shasum": "2c85192c15d3e20361236f26240187f9d9f71355",
+				"tarball": "https://registry.npmjs.org/sqlite/-/sqlite-2.9.1.tgz"
+			}
+		}
+	},
+	"name": "sqlite",
+	"dist-tags": {
+		"latest": "2.9.1"
+	},
+	"modified": "2018-02-16T02:03:56.058Z",
+	"cachedAt": 1521771064705
+}
