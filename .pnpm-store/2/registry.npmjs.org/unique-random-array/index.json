@@ -1,0 +1,29 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "unique-random-array",
+			"version": "1.0.0",
+			"dependencies": {
+				"unique-random": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "42b3721c579388d8b667c93c2dbde3d5d81a9136",
+				"tarball": "https://registry.npmjs.org/unique-random-array/-/unique-random-array-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			}
+		}
+	},
+	"name": "unique-random-array",
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"modified": "2017-03-05T12:02:39.446Z",
+	"cachedAt": 1521771064750
+}

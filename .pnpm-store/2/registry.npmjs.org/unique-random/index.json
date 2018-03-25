@@ -1,0 +1,58 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "unique-random",
+			"version": "0.1.0",
+			"devDependencies": {
+				"mocha": "~1.14.0"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "9a9039a431b30ee875ae0ec91fc49de6246af4ce",
+				"tarball": "https://registry.npmjs.org/unique-random/-/unique-random-0.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			}
+		},
+		"0.1.1": {
+			"name": "unique-random",
+			"version": "0.1.1",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "c4ccaabedaab8534e0f54daf5f10743ee5c692ad",
+				"tarball": "https://registry.npmjs.org/unique-random/-/unique-random-0.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			}
+		},
+		"1.0.0": {
+			"name": "unique-random",
+			"version": "1.0.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"_hasShrinkwrap": false,
+			"directories": {},
+			"dist": {
+				"shasum": "ce3e224c8242cd33a0e77b0d7180d77e6b62d0c4",
+				"tarball": "https://registry.npmjs.org/unique-random/-/unique-random-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			}
+		}
+	},
+	"name": "unique-random",
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"modified": "2017-10-03T12:23:03.604Z",
+	"cachedAt": 1521771069933
+}

@@ -1,2 +1,2 @@
-# testbot
-see if it gets hacked?
+# FungiBot
+A bot that is related to the many species of Fungi
